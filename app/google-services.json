@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "539357006455",
+    "project_id": "elementarnolab",
+    "storage_bucket": "elementarnolab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539357006455:android:9ce9c4a70516bef46a5472",
+        "android_client_info": {
+          "package_name": "com.elementarno.lab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539357006455-bofvri5l6n2j39sk81n9vuia5bbc9ap0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2sKlAsaNSTmzyY2dkyY3ScTETmd9VGeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539357006455-bofvri5l6n2j39sk81n9vuia5bbc9ap0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
